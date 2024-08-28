@@ -1,0 +1,1 @@
+i dont indrestand the Linked List and how its work like how to represent a sequence and how to use the underlying data structure.
